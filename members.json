@@ -47,4 +47,12 @@
 		"age": "20",
 		"github_handle": "dpzmick"
 	},
+	{
+		"name": "Zach Kimberg",
+		"netid": "kimberg2",
+		"grade": "Feshman",
+		"major": "Computer Science",
+		"age": "19",
+		"github_handle": "zachgk"
+	},
 ]
